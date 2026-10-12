@@ -35,5 +35,9 @@ The first, second, and last products can be added to the cart. The third and fou
 **High** — The issue affects core shopping functionality.
 
 ## Evidence
+
 - **Screenshot:** `bug-02.png`
-- The screenshot shows an unsuccessful Add to cart attempt with the product and button state visible. 
+
+The screenshot below shows the unsuccessful Add to Cart attempt, with the product and button state visible.
+
+![Unsuccessful Add to Cart attempt](./bug-evidence/bug-02.png)

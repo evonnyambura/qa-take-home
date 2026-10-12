@@ -34,5 +34,9 @@ The product does not respond to clicks on the all the ranges from A to Z and Z t
 **Medium** — Product discovery is affected, although users may still be able to browse and purchase products.
 
 ## Evidence
+
 - **Screenshot:** `bug-04.png`
-- The screenshot shows the selected sorting option and the resulting product order. 
+
+The screenshot below shows the selected sorting option and the resulting order of products.
+
+![Selected sorting option and resulting product order](./bug-evidence/bug-04.png)

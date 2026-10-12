@@ -32,5 +32,9 @@ Clicking About opens a page displaying a Not Found message.
 **Medium** — The About destination is inaccessible, although the issue may not prevent users from completing the main shopping flow.
 
 ## Evidence
+
 - **Screenshot:** `bug-05.png`
-- The screenshot shows the Not Found message and the URL in the browser address bar.
+
+The screenshot below shows the Not Found message and the URL in the browser's address bar.
+
+![Not Found message and browser URL](./bug-evidence/bug-05.png)

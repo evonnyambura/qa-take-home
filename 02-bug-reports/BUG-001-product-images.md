@@ -31,5 +31,9 @@ The product images do not match their corresponding product names.
 **High** The issue affects product identification across the shopping experience and should be investigated promptly.
 
 ## Evidence
+
 - **Screenshot:** `bug-01.png`
-- Capture the Products page with the mismatched product images and names visible.
+
+The screenshot below shows the Products page with mismatched product images and names.
+
+![Products page showing mismatched product images and names](./bug-evidence/bug-01.png)

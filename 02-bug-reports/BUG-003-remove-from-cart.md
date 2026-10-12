@@ -35,5 +35,9 @@ On the product details page, clicking **Remove** does not appear to remove the p
 **High** — The issue affects cart management and can interfere with correcting an order before checkout.
 
 ## Evidence
+
 - **Screenshot:** `bug-03.png`
-- The screenshot shows the product details page showing the Remove button and cart badge. 
+
+The screenshot below shows the product details page with the Remove button and cart badge visible.
+
+![Product details page showing the Remove button and cart badge](./bug-evidence/bug-03.png)
