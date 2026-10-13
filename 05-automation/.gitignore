@@ -1,0 +1,13 @@
+test-results/
+__pycache__/
+.pytest_cache/
+.venv/
+env/
+.env/
+.DS_Store
+Thumbs.db
+venv/
+*.py[cod]
+report.html
+.env.*
+pycache/*
