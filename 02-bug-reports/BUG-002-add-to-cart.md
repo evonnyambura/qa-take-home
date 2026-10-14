@@ -29,10 +29,10 @@ Clicking **Add to cart** should add the selected product to the cart. The button
 The first, second, and last products can be added to the cart. The third and fourth products cannot be added successfully.
 
 ## Severity
-**Major** — Users cannot add certain products to their cart, preventing them from purchasing those products through the normal shopping flow.
+**Major**:Users cannot add certain products to their cart, preventing them from purchasing those products through the normal shopping flow.
 
 ## Priority
-**High** — The issue affects core shopping functionality.
+**High**: The issue affects core shopping functionality.
 
 ## Evidence
 
