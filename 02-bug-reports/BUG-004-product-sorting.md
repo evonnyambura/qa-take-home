@@ -28,10 +28,10 @@ The product list should be reordered according to the selected sorting option. F
 The product does not respond to clicks on the all the ranges from A to Z and Z to A and also from the lowest to the highest price.
 
 ## Severity
-**Major** — Unresponsive sorting makes it harder for users to locate and compare products.
+**Major**:Unresponsive sorting makes it harder for users to locate and compare products.
 
 ## Priority
-**Medium** — Product discovery is affected, although users may still be able to browse and purchase products.
+**Medium**:Product discovery is affected, although users may still be able to browse and purchase products.
 
 ## Evidence
 
