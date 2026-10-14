@@ -26,10 +26,10 @@ Clicking About should navigate to its intended destination without displaying a 
 Clicking About opens a page displaying a Not Found message.
 
 ## Severity
-**Major** — The navigation link leads to an unavailable destination.
+**Major**:The navigation link leads to an unavailable destination.
 
 ## Priority
-**Medium** — The About destination is inaccessible, although the issue may not prevent users from completing the main shopping flow.
+**Medium**:The About destination is inaccessible, although the issue may not prevent users from completing the main shopping flow.
 
 ## Evidence
 
