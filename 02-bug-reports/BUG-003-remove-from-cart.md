@@ -29,10 +29,10 @@ The selected product should be removed from the cart. The button should change b
 On the product details page, clicking **Remove** does not appear to remove the product, and the cart badge does not decrease.
 
 ## Severity
-**Major** — Users cannot reliably remove unwanted products from their cart.
+**Major**:Users cannot reliably remove unwanted products from their cart.
 
 ## Priority
-**High** — The issue affects cart management and can interfere with correcting an order before checkout.
+**High**:The issue affects cart management and can interfere with correcting an order before checkout.
 
 ## Evidence
 
