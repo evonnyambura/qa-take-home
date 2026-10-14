@@ -18,7 +18,7 @@
 | Remove from Cart | Pass | Fail - Cart badge does not decrease after clicking Remove |
 | Product sorting | Pass | Fail - Sorting options do not work as expected |
 | About navigation | Pass | Fail - About opens a Not Found page |
-| Checkout | Pass | [Record the result of your test] |
+| Checkout | Pass | Pass |
 
 ## Summary
 
